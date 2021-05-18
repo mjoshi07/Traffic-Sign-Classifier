@@ -5,6 +5,10 @@
 * Input **(32x32x3)**
 * Output softmax-`43` classes
 
+## [German Traffic Sign Dataset] 
+![image](https://user-images.githubusercontent.com/31381335/118683824-4f5e2900-b81f-11eb-9bfe-49689f8bf68e.png)
+
+
 
 ## Train yourself
 * To train on your custom data, split the dataset into train, val, test folder
